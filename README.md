@@ -1,5 +1,3 @@
-# Weather App
-
 ## Overview
 
 Welcome to the Weather App project! This application allows users to retrieve current weather information for a specific location by either manually entering a location or automatically obtaining the weather for their current location. The app leverages the OpenWeather API to provide accurate and up-to-date weather data.
